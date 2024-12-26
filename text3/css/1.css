@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+a:link{
+	color: #00f;
+	text-decoration: none;
+}
+a:visited{
+	color: #86492a;
+	text-decoration: none;
+}
+a:hover{
+	color: #0F0;
+	text-decoration: none;
+}
+a:active{
+	color: #C03;
+	text-decoration: none;
+}
+.table{
+	margin-top: 50px;
+	margin-left: 200px;
+	position: absolute;
+}
+
+.main_left_title{
+	text-align: center;
+	font-size: 23px;
+	font-family: "云烟体";
+	background: #CCCCCC;
+	
+}
+.new1{
+	position: absolute;
+	width: 28px;
+	height: 11px;
+	left: 122px;
+	top: 249px;
+}
+.new2{
+	position: absolute;
+	width: 28px;
+	height: 11px;
+	left: 123px;
+	top: 215px;
+}
+.text1{
+	font-family: "仿宋";
+	text-align: left;
+	line-height: 22px;
+	font-weight: bold;
+	background: #CCCCCC;
+	font-size: 14px;
+	font-style: italic;
+}
+.bottom{
+	background-color: #C5A76A;
+	text-align: center;
+	font-size: 13px;
+	color: #000000;
+	font-family: "宋体";
+}
