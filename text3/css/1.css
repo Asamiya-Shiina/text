@@ -59,3 +59,12 @@ a:active{
 	color: #000000;
 	font-family: "宋体";
 }
+.aswhtext {
+	font-family: "仿宋";
+	text-align: left;
+	line-height: 20px;
+	font-weight: bold;
+	background: #CCCCCC;
+	font-size: 14px;
+	
+}
