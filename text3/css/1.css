@@ -68,3 +68,29 @@ a:active{
 	font-size: 14px;
 	
 }
+.diytitle{
+	font-family: "云烟体";
+	text-align: center;
+	border-bottom-width: 1px;
+	background-color: #CCCCCC;
+	height: 35px;
+}
+.diytext{
+	font-family: "仿宋";
+	text-align: left;
+	font-size: 17px;
+}
+.diynew1{
+	position: absolute;
+	width: 28px;
+	height: 11px;
+	left: 127px;
+	top: 240px;
+}
+.diynew2{
+	position: absolute;
+	width: 28px;
+	height: 11px;
+	left: 125px;
+	top: 282px;
+}
